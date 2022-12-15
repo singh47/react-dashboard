@@ -1,0 +1,5 @@
+{
+    "DATA_API": "https://api-sr-uzw7pameqq-uc.a.run.app",
+    "CATEGORY_API": "https://api-sr-uzw7pameqq-uc.a.run.app/get_categories",
+    "EXPIRED_API": "https://api-sr-uzw7pameqq-uc.a.run.app/get_expired"
+}
